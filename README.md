@@ -1,2 +1,2 @@
 # Small-Basic
-Small Basic Programs
+This is a collection of small basic programs I created
